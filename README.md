@@ -39,5 +39,6 @@ After the installation, you can compile love application like this
 ```bash
 l2d path-to-love-project-folder
 ```
-
+you can install love-development-compiler application in your windows by clicking setup.exe file in dist
+directory
 
